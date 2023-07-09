@@ -1,0 +1,82 @@
+#navbar {
+    background-color: #E84545;
+}
+
+.navbar-brand {
+    padding: 1.3rem;
+    font-size: 1.7rem;
+    color: #fff;
+}
+
+.navbarin {
+    font-size: 1.1rem;
+    color: #fff;
+}
+
+.header {
+    background-color: #2B2E4A;
+    padding-bottom: 7rem;
+}
+
+.first-img {
+    padding-top: 10rem;
+    padding-bottom: 2rem;
+    width: 450px;
+    height: 450px;
+}
+
+.h1 {
+    font-size: 3.5rem;
+    color: #fff;
+}
+
+.information {
+    font-size: 1.3rem;
+    color: #fff;
+}
+
+.portfolio {
+    font-size: 3rem;
+    color: #53354A;
+    padding-bottom: 2.5rem;
+}
+
+.img {
+    padding-top: 3rem;
+}
+
+img {
+    margin: 2rem;
+    height: 250px;
+    margin-bottom: 3rem;
+}
+
+.portfolio-img {
+    border-radius: 10px;
+}
+
+.about {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    background-color: #E84545;
+    color: #fff;
+}
+
+.about-row {
+    padding-left: 17rem;
+    padding-right: 17rem;
+}
+
+.button {
+    padding: 3rem;
+}
+
+.egitim {
+    padding: 3rem;
+    background-color: #2B2E4A;
+}
+
+.copyright {
+    padding:1.5rem;
+    background-color: #1a252f;
+}
